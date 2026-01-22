@@ -14,7 +14,7 @@ This project predicts the probability of an employee leaving an organization usi
 - Company-wide attrition rate
 - Department-wise attrition analysis
 
-## Technologies Used
+## Tools Used
 - Python
 - Pandas, NumPy
 - Scikit-learn
